@@ -1,0 +1,38 @@
+.git{
+    background-color: rgb(23, 23, 23);
+    height: 100vh;
+}
+
+.inpblock{
+    margin: auto;
+   width: 50%;
+   
+}
+
+.userInfo{
+    padding: 20px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: grey;
+    width: 30%;
+    color: white;
+    font-size: 20px;
+}
+
+
+.container{
+    display: flex;
+
+    & h2{
+        color: white;
+    }
+
+    
+}
+
+.avatar{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
